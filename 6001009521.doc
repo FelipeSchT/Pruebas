@@ -1,0 +1,1263 @@
+<!-- class: ariba.sourcing.rfxui.PrintRFXEncode -->
+<html>
+<head>
+<meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+<style type="text/css">
+* { font-family: 'Arial Unicode MS'; }
+<!--
+table {
+border: 1px solid #666699;
+border-collapse: collapse;
+}
+
+td {
+color: #000000;
+font: normal 12px;
+border: 1px solid #666699;
+word-break: break-all;
+}
+
+th {
+text-align: left;
+border: 1px solid #666699;
+padding-left: 6px;
+padding-right: 6px;
+}
+
+th.fieldLabel {
+color: #000000;
+font: normal 12px;
+border: 1px solid #666699;
+background-color: #e9e9f1;
+}
+
+.sectionHead {
+color: #333366;
+font: bold 12px;
+}
+
+.tableHead {
+background-color: #dddddd;
+}
+
+.tableSubHead {
+color: #000000;
+}
+
+.fieldLabel {
+padding-left: 6px;
+padding-right: 6px;
+}
+
+.fieldValue {
+padding-left: 6px;
+padding-right: 6px;
+}
+
+.titleFieldValue {
+font-weight: bold;
+padding-left: 6px;
+padding-right: 6px;
+}
+.descriptionFieldValue {
+word-break:break-all;
+padding-left: 6px;
+padding-right: 2px;
+}
+-->
+</style>
+</head>
+<body>
+<br/>
+<br/>
+<br/>
+<!-- Introduction Section -->
+<table width="100%" border="0">
+<tr class="tableHead">
+<th>
+<span class="sectionHead">Introducción</span>
+</th>
+</tr>
+<tr>
+<td>
+<p>
+Esta es una versión para imprimir del evento. Contiene un resumen del evento y sus contenidos. La respuesta que se muestra a continuación es la última respuesta aceptada. Si no hay respuesta aceptada, se mostrará el último borrador de respuesta. Revise esto para comprobar si la información es correcta y márquelo como sea necesario.
+</p>
+
+<p>
+Este archivo se descargó a las: 
+[jueves, 28 noviembre, 2024 a las 17:16]
+</p>
+
+</td>
+</tr>
+</table>
+
+<p>&nbsp;</p>
+
+<!-- Overview Section -->
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Visión general</span>
+</th>
+</tr>
+
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Propietario</td>
+<td width="75%" class="fieldValue">Elisa Estefania Jara Munoz</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Tipo de evento</td>
+<td width="75%" class="fieldValue">RFP</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Divisa</td>
+<td width="75%" class="fieldValue">Dólar de EE. UU.</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Mercancía</td>
+<td width="75%" class="fieldValue">CAÑERIA, FITTING METALICO REVESTIDO Y ACCESORIOS M11.09.04</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Regiones</td>
+<td width="75%" class="fieldValue">TE01 El Teniente</td>
+</tr>
+
+
+
+</table>
+
+<p>&nbsp;</p>
+
+<!-- Team Members Section -->
+
+<!-- Graders Weight Section -->
+
+
+<!-- Timing Rules Section -->
+
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Reglas de horario</span>
+</th>
+</tr>
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Hora de publicación</td>
+<td width="75%" class="fieldValue">28/11/2024 14:04</td>
+</tr>
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Fecha de vencimiento</td>
+<td width="75%" class="fieldValue">9/12/2024 15:00</td>
+</tr>
+
+
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+</table>
+
+<p>&nbsp;</p>
+
+
+<!-- RFX Format Rules -->
+
+
+<!-- Envelope Rules -->
+
+
+<!-- Bidding Rules Section -->
+
+
+<!-- Currency Rules Section -->
+
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Reglas de divisa</span>
+</th>
+</tr>
+<!-- class: ariba.sourcing.rfxui.PrintRFXGroupEncode -->
+
+
+
+
+
+<tr>
+<td align="left" class="fieldLabel">Permitir a los participantes seleccionar la divisa de puja</td>
+<td width="75%" class="fieldValue">Sí</td>
+</tr>
+
+
+
+
+
+</table>
+
+<p>&nbsp;</p>
+
+
+<!-- Initiator Actions Section -->
+
+
+
+<!-- Market Feedback Section -->
+
+
+<!-- Message Board Section -->
+
+
+<!-- Include Bidder Agreement Rule -->
+
+
+<!-- Invited Participants Section -->
+
+
+<!-- Customized Messages Section -->
+
+
+<!-- Content Section -->
+
+<!-- class: ariba.sourcing.rfxui.PrintRFXContentEncode -->
+
+
+
+
+<table width="100%" border="0">
+<tr class="tableHead">
+<th colspan="2">
+<span class="sectionHead">Contenido</span>
+</th>
+</tr>
+<tr>
+
+<th align="left" class="fieldLabel">Nombre</th>
+
+<th align="left" class="fieldLabel">Valor</th>
+
+</tr>
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">1 ADAPTER A1 REVES GOMA 20MM PLN CL123118</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Cantidad</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#QUANTITY">
+1 Unidades
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Precio</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#PRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Si fuese necesario adjunte un archivo de soporte a su respuesta</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#ATTACHMENT">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Subtotal</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#EXTENDEDPRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Ahorro</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#SAVINGS">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Texto Largo</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASTRINGIFZ000010">
+ADAPTER �26X1366MM, SCH STD, ASTM A53.EXTREMOS FLANGE AWWA � CLASE D/ FLANGE ESPECIAL �980MM.REVESTIMIENTO INTERIOR 25MM CER�MICO 1/2X21MM Y ANILLO T500/REVESTIMIENTO EXTERIOR CAUCHO NATURAL 30MM, DUREZA 60�5 SHORE A.PINTURA EXTERIOR 4-6 MILS, RAL 5005.
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Fecha de entrega solicitada</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#REQUESTDELIVERYDATE">
+mié, 5 mar, 2025
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Marca y origen del producto</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASHORTSTRINGIFZ000057">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Días de entrega corridos</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITAINTEGERIFZ000003">
+
+</a>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">2 CA�ERIA RECTA ACERO NEGRO 14X12MT</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Cantidad</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#QUANTITY">
+8 Tira
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Precio</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#PRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Si fuese necesario adjunte un archivo de soporte a su respuesta</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#ATTACHMENT">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Subtotal</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#EXTENDEDPRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Ahorro</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#SAVINGS">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Texto Largo</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASTRINGIFZ000010">
+CA�ERIA RECTA, ACERO NEGRO ASTM A53, GRADO A, SCHEDULE 40, 14 DIAMETROX 12MT LARGO, REVESTIDA EN POLIURETANO, 1/2 SHORE A. EN SUS EXTREMOSPARA CONEXI�N VICTAULIC 77.
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Fecha de entrega solicitada</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#REQUESTDELIVERYDATE">
+mié, 5 mar, 2025
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Marca y origen del producto</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASHORTSTRINGIFZ000057">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Días de entrega corridos</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITAINTEGERIFZ000003">
+
+</a>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">3 DUCTO 20MM REVEST GOMA PLNSEY161680-D2</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Cantidad</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#QUANTITY">
+1 Unidades
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Precio</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#PRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Si fuese necesario adjunte un archivo de soporte a su respuesta</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#ATTACHMENT">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Subtotal</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#EXTENDEDPRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Ahorro</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#SAVINGS">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Texto Largo</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASTRINGIFZ000010">
+DUCTO, CARACTERISTICAS GENERALES: REVESTIDO INTERIORMENTE GOMA 20MM, MATERIAL CAUCHO NATURAL NEGRO, RESISTENCIA TRACCION 160KG/CM2,MODULO 300% 60KG/CM2, ALARGAMIENTO MAXIMO 600%, DUREZA SHORE A 65 +/-5�, PESO ESPECIFICO 1.13GR/CM3, ABRASION TABER 0.025MG/
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Fecha de entrega solicitada</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#REQUESTDELIVERYDATE">
+mié, 5 mar, 2025
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Marca y origen del producto</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASHORTSTRINGIFZ000057">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Días de entrega corridos</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITAINTEGERIFZ000003">
+
+</a>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">4 CODO REVEST GOMA 20MM PLNSEY161679-C3</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Cantidad</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#QUANTITY">
+1 Unidades
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Precio</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#PRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Si fuese necesario adjunte un archivo de soporte a su respuesta</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#ATTACHMENT">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Subtotal</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#EXTENDEDPRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Ahorro</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#SAVINGS">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Texto Largo</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASTRINGIFZ000010">
+CODO, CARACTERISTICAS GENERALES: ESPESOR 20MM, REVESTIDO INTERIORMENTE GOMA NEGRO, RESISTENCIA TRACCION 160KG/CM2, MODULO 300% 60KG/CM2, ALARGAMIENTO MAXIMO 600%, DUREZA SHORE A 65 +/-5�, PESO ESPECIFICO 1.13GR/CM3, ABRASION TABER 0.025MG/REV, RESILENCIA%
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Fecha de entrega solicitada</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#REQUESTDELIVERYDATE">
+mié, 5 mar, 2025
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Marca y origen del producto</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASHORTSTRINGIFZ000057">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Días de entrega corridos</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITAINTEGERIFZ000003">
+
+</a>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">5 DUCTO 20MM REVEST GOMA PLNSEY161680-D7</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Cantidad</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#QUANTITY">
+1 Unidades
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Precio</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#PRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Si fuese necesario adjunte un archivo de soporte a su respuesta</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#ATTACHMENT">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Subtotal</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#EXTENDEDPRICE">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Ahorro</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#SAVINGS">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Texto Largo</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASTRINGIFZ000010">
+DUCTO, CARACTERISTICAS GENERALES: REVESTIDO INTERIORMENTE GOMA 20MM, MATERIAL CAUCHO NATURAL NEGRO, RESISTENCIA TRACCION 160KG/CM2,MODULO 300% 60KG/CM2, ALARGAMIENTO MAXIMO 600%, DUREZA SHORE A 65 +/-5�, PESO ESPECIFICO 1.13GR/CM3, ABRASION TABER 0.025MG/
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Fecha de entrega solicitada</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#REQUESTDELIVERYDATE">
+mié, 5 mar, 2025
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Marca y origen del producto</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITASHORTSTRINGIFZ000057">
+
+</a>
+</td>
+
+</tr>
+
+<tr>
+<td style="width:40%" align="left" class="fieldValue">Días de entrega corridos</td>
+
+
+
+<td width="20%" align="left" class="descriptionFieldValue">
+<a style="color: black; text-decoration: none;" href="#GITAINTEGERIFZ000003">
+
+</a>
+</td>
+
+</tr>
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">6 Información a considerar</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">6.1 Estándar Control de Fatalidad_ECF</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880922">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">6.2 CLAUSULAS APLICABLES A OFERTAS PARA COMPRAS NACIONALES REV 7 ENE 18</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880923">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">6.3 CLAUSULAS APLICABLES A OFERTAS PARA COMPRAS DE IMPORTACION REV 5 ENE 2018</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880924">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">6.4 Instructivo Proveedores Codelco Jun2020</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880925">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">6.5 INSTRUCTIVO -855(CORP)-SISQUIM-Control de acceso de sustancias químicas</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880926">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">7 Aquí puede descargar el documento "Documentos de Licitación"</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880927">
+Documentos Estandar Negociación de Bienes CODELCO.zip
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">8 La fecha de cierre del evento corresponde al plazo máximo de presentación de ofertas por parte del proveedor</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880928">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">9 Las consultas a las Bases de Licitación serán gestionadas a través de la mensajería del evento.</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880929">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">10 Oferta Técnica</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">10.1 Adjuntar la ficha técnica especifica del o los productos</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880931">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">11 Oferta Económica</td>
+
+
+
+
+
+<td>&nbsp;</td>
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">11.1 Incoterm</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1103880933">
+EBC - Entrega Bodega Consolidación
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">12 1267637 1267637- GSYS-PLA-161679-02.pdf</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1105092187">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">13 Plano 1267894 1267894 - CI-1-23118-CDT-F09_RA(D6-26).pdf</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1105092188">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">14 Plano 1267895 1267895- SEY-161680 REV-1 código 1267895.tiff</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1105092189">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+<tr>
+
+
+<td style="width:40%;word-break:break-all;" align="left" class="titleFieldValue">15 Plano 1267899 1267899 -GSYS-PLA-161680-03.pdf</td>
+
+
+
+
+<td align="left" class="fieldValue">
+<a style="color: black; text-decoration: none;" href="#1105092190">
+
+</a>
+
+</td>
+
+
+</tr>
+
+
+
+</table>
+
+<p>&nbsp;</p>
+
+
+<!-- Scoring Section -->
+
+</body>
+</html>
